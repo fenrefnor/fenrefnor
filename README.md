@@ -2,6 +2,6 @@
 (https://ti4a.github.io)
 
 English:
-This is 4 Adrian! - We are a small group of friends supporting our incarcerated friend.\
+THIS IS FOR ADRIAN! - We are a small group of friends supporting our incarcerated friend.\
 Norsk:
-Dette er for Adrian! - Vi er en liten støttegruppe for vår venn i fengsel.
+DETTE ER FOR ADRIAN! - Vi er en liten støttegruppe for vår venn i fengsel.
